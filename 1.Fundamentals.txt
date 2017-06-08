@@ -1,0 +1,37 @@
+Fundamentals
+------------
+
+objective:
+	study a broad variety of important and useful algorithms
+	
+content:
+	1. basic programming model
+	2. data abstraction
+			define [abstract data types](ADTs)
+	3. three fundamental ADTs: bags,queues,stack
+	4. algorithm performance
+			scientific method:
+			1. develop hypotheses about performance 做出性能假设
+			2. create methmatical models
+			3. run experiments to test them
+			4. repeat the process as necessary
+
+Algorithms
+----------
+	a finite, deterministic, and effective problem-solving method suitable for implementation as a computer program.
+	
+	It is the method,rather than the computer program itself,that specifies the steps that we can take to solve the problem.
+	
+	Algorithms are the stuff of computer science: they are central objects of study in the field.
+	
+	The primary reson to learn about algorithms is that this discipline gives us the potential to reap huge savings,even to the point of enabling us to do tasks that would otherwise impossible.
+	
+	Careful algorithm design is an extremely effective part of the process of solving a huge problem,whaterever the applications area.
+	
+	[Analysis of algorithms]
+	
+	develop a style of [algorithm thinking]
+	
+	
+	
+	
